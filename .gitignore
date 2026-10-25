@@ -1,0 +1,20 @@
+# JetBrains / PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
